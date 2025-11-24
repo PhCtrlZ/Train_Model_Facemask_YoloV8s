@@ -1,11 +1,11 @@
-# Train_Model_Facemask_YoloV8s 🚀  
+# Train_Model_Facemask_YoloV8s 
 **Author:** PhCtrlZ  
 **Project:** Huấn luyện mô hình phát hiện khẩu trang bằng YOLOv8s
 
-## 📝 Giới thiệu  
+## Giới thiệu  
 Dự án này thực hiện huấn luyện mô hình YOLOv8s để phát hiện **Mask** và **No Mask** trên ảnh hoặc video. Mục tiêu là tạo một mô hình nhẹ, chính xác và có thể triển khai trên máy tính cá nhân hoặc thiết bị IoT/Edge.
 
-## 📁 Cấu trúc thư mục  
+##  Cấu trúc thư mục  
 ├── data.yaml
 ├── main.py
 ├── train/
@@ -15,7 +15,7 @@ Dự án này thực hiện huấn luyện mô hình YOLOv8s để phát hiện 
 ├── test.jpg
 └── README.dataset.txt
 
-## 🔧 Yêu cầu môi trường  
+##  Yêu cầu môi trường  
 - Python 3.x  
 - torch  
 - ultralytics  
