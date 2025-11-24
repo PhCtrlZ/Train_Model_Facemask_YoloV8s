@@ -6,14 +6,14 @@
 Dự án này thực hiện huấn luyện mô hình YOLOv8s để phát hiện **Mask** và **No Mask** trên ảnh hoặc video. Mục tiêu là tạo một mô hình nhẹ, chính xác và có thể triển khai trên máy tính cá nhân hoặc thiết bị IoT/Edge.
 
 ##  Cấu trúc thư mục  
-├── data.yaml
-├── main.py
-├── train/
-├── valid/
-├── runs/
-│ └── detect/
-├── test.jpg
-└── README.dataset.txt
+├── data.yaml  
+├── main.py  
+├── train/  
+├── valid/  
+├── runs/  
+│ └── detect/  
+├── test.jpg  
+└── README.dataset.txt  
 
 ##  Yêu cầu môi trường  
 - Python 3.x  
